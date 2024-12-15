@@ -1,0 +1,23 @@
+﻿@model List<Employee>
+
+ <h5> My Title is @ViewData["tit"]</h5>
+
+<select id="A" class="form-select" aria-label="Default select example">
+
+	@foreach (var item in ViewBag.color)
+	{
+		<option selected>@item</option>
+	}
+
+</select>
+
+
+
+<select class="form-select" aria-label="Default select example">
+
+	@foreach (var item in ViewBag.li)
+	{
+		<option style="color:#A" selected>@item</option>
+	}
+	 
+</select>

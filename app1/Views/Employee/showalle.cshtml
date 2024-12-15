@@ -1,0 +1,87 @@
+﻿@model List<Employee>
+
+@*  <a class="btn btn-danger" href="add2">New</a> *@
+
+ @*New</a> *@
+
+
+ 
+<a asp-action="New" asp-controller="Employee" class="btn btn-danger ">
+    <i class="bi bi-person-plus"></i>
+</a>
+<div id="div1"></div>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Emp Id</th>
+            <th scope="col">Emp Name</th>
+            <th scope="col">Emp Pic</th>
+            <th scope="col">Emp Address</th>
+            <th scope="col">Emp Dept id</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.Name</td>
+                <td><img src="/images/@item.imgURL" width="30" height="30" /></td>
+                <td>@item.Address</td>
+                <td>@item.DeptId</td>
+                <td>
+                    <a href="/employee/edit/@item.ID">
+                        <i class="bi bi-pen  btn btn-success"> Edit</i><br />
+                    </a>
+                </td>
+                <td>
+                    <a href="/employee/delete/@item.ID">
+
+                        <i class="bi bi-trash  btn btn-danger">Delete</i>
+
+
+                    </a>
+
+                </td>
+                <td>
+                    <a href="/employee/PatialDetails/@item.ID" onclick="Getempdata(@item.ID)">
+
+                        <i class="bi bi-info-circle btn btn-secondary">_Show Details</i>
+
+
+                    </a>
+
+                </td>
+
+            </tr>
+
+
+        }
+
+
+    </tbody>
+</table>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script>
+    function Getempdata(id)
+    {
+        event.preventDefault();
+        //Ajax<a href="#"></a>
+        $.ajax({
+            url: "/employee/PatialDetails/"+id, success: function (result) {
+                console.log(result);
+
+                $("#div1").html(result);
+            }
+        });
+    }
+
+  
+
+
+</script>

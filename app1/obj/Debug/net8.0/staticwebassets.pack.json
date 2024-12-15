@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\app1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\app1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\assets\\img\\avataaars.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\avataaars.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\assets\\img\\portfolio\\cabin.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\cabin.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\assets\\img\\portfolio\\cake.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\cake.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\assets\\img\\portfolio\\circus.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\circus.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\assets\\img\\portfolio\\game.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\game.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\assets\\img\\portfolio\\safe.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\safe.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\assets\\img\\portfolio\\submarine.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\submarine.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\1.ico",
+      "PackagePath": "staticwebassets\\images\\1.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\1_9f886f01-20e7-4a42-bb69-171384927e6e_500x.jpg",
+      "PackagePath": "staticwebassets\\images\\1_9f886f01-20e7-4a42-bb69-171384927e6e_500x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\2.ico",
+      "PackagePath": "staticwebassets\\images\\2.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\DPBiKu8WAAUq8pQ.jpg",
+      "PackagePath": "staticwebassets\\images\\DPBiKu8WAAUq8pQ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\FB_IMG_1524670550832.jpg",
+      "PackagePath": "staticwebassets\\images\\FB_IMG_1524670550832.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\IMG_1259.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_1259.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\ae8d36168c446fcb687e73f61fc44e4f.jpg",
+      "PackagePath": "staticwebassets\\images\\ae8d36168c446fcb687e73f61fc44e4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\gE4Ydp.jpg",
+      "PackagePath": "staticwebassets\\images\\gE4Ydp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\images (3).jpeg",
+      "PackagePath": "staticwebassets\\images\\images (3).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\images (4).jpeg",
+      "PackagePath": "staticwebassets\\images\\images (4).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\mohamed_salah_by_egzonnimani-dc14im0.png",
+      "PackagePath": "staticwebassets\\images\\mohamed_salah_by_egzonnimani-dc14im0.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\unnamed (4).jpg",
+      "PackagePath": "staticwebassets\\images\\unnamed (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\images\\أمل-الاطفال-فى-مصر-اصبح-لاعبهم-محمد-صلاح-فخر-العرب-mohamed-salah-1.jpg",
+      "PackagePath": "staticwebassets\\images\\أمل-الاطفال-فى-مصر-اصبح-لاعبهم-محمد-صلاح-فخر-العرب-mohamed-salah-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Gomaa\\source\\repos\\app1\\app1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.app1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.app1.props",
+      "PackagePath": "build\\app1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.app1.props",
+      "PackagePath": "buildMultiTargeting\\app1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.app1.props",
+      "PackagePath": "buildTransitive\\app1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

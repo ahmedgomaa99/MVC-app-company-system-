@@ -1,0 +1,42 @@
+﻿@model List<Department>
+@{
+    ViewData["Title"] = "DeptEmp";
+}
+
+<h1>DeptEmp</h1>
+
+
+<select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" id="deptid" name="deptid" onchange="DeptEmps()">
+    <option selected disabled>Open this select menu</option>
+    @foreach (var item in Model)
+    {
+        <option value="@item.Id">@item.Name</option>
+
+    }
+</select>
+<select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" id="emp" name="emp" >
+</select>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    function DeptEmps(){
+       var deptid= document.getElementById("deptid").value;
+        var empElement = document.getElementById("emp");
+        empElement.innerHTML = "";
+        $.ajax({
+            url: "/department/getempsbydeptid/" + deptid, success: function (result) {
+                console.log(result)
+                for (let item of result) { 
+                    empElement.innerHTML += " <option value='"+item.id+"' >"+item.name+"</option>"
+
+                }
+            }
+        });
+        console.log(deptid)
+
+
+    }
+
+
+</script>
+

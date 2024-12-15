@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div style="height:100px;background-color:antiquewhite;font-size:50px">@RenderSection("h")</div>
+    <div style="height:100px;background-color:burlywood;font-size:50px">
+        @RenderBody()
+    </div>
+    <div style ="height:100px;background-color:antiquewhite;font-size:50px">@RenderSection("f")</div>
+
+</body>
+</html>

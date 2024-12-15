@@ -1,0 +1,38 @@
+﻿@model List<Department>
+@{
+    ViewData["title"] = "Departments";
+    Layout = "_AdvLayout";
+}
+
+<a class="btn btn-danger" href="add2">New</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Dept Id</th>
+            <th scope="col">Dept Name</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+        <tr>
+        <td>@item.Id</td>
+        <td>@item.Name</td>
+                <td>
+                    <a href="/department/delete/@item.Id">
+
+                        <i class="bi bi-trash  btn btn-danger">Delete</i>
+
+
+                    </a>
+                </td>
+        </tr>
+       
+       
+        }
+
+      
+    </tbody>
+</table>
